@@ -18,6 +18,8 @@ namespace AppEntityCore.Controllers
             return View();
         }
 
+        //hola
+
         public IActionResult Privacy()
         {
             return View();
