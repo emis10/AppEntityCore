@@ -12,5 +12,5 @@ namespace AppEntityCore.Models
         public string? NombreCategoria { get; set; }
         public ICollection <Producto>? Productos { get; set; }
     }
-    //hola
+    //hola dkfjod
 }
